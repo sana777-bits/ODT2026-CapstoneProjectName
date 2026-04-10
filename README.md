@@ -1,10 +1,10 @@
 **Project Title**
 
-[Enter your project name here]
+Scurr-E!
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+ A fun, interactive game with fast paced adrenaline, immersiveness, and escaping capture in time. It is a physical, real-world robot game where players must chase and tag a fleeing WALL-E robot before a countdown timer expires. The robot actively tries to escape, reacting to the presence of nearby players and fleeing at speed. Players must physically catch the robot and press a button to defuse the bomb before the NeoPixel ring timer counts to zero.
 
 
 **📂 Repository Structure**
@@ -28,4 +28,4 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+Sana Jain
